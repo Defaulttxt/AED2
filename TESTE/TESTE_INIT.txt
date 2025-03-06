@@ -1,0 +1,5 @@
+C:\Users\Alunos>git config --global user.name "Defaulttxt"
+
+C:\Users\Alunos>git config --global user.email pedroarruda4444@hotmail.com
+
+git config --list
